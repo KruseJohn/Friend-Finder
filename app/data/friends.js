@@ -2,7 +2,7 @@ var friends = [
     
     {
         "name": "Bubbles",
-        "image": "https://i.redd.it/4btt2hme6to11.jpg",
+        "photo": "https://media.giphy.com/media/2Dk9g2uipD3KU/giphy.gif",
         "scores": [
             5,
             3,
@@ -19,7 +19,7 @@ var friends = [
         
         {
         "name": "The Dude",
-        "photo": "https://gq-images.condecdn.net/image/N25V1omb0Qa/crop/1440/landscape/f/The-Big-Lebowski-hp-GQ-25Feb16_rex_b.jpg",
+        "photo": "https://media.giphy.com/media/hzrvwvnbgIV6E/giphy.gif",
         "scores": [
             5,
             5,
@@ -36,7 +36,7 @@ var friends = [
     
         {
         "name": "Freddy",
-        "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Freddy_Krueger_%28Robert_Englund%29.jpg/220px-Freddy_Krueger_%28Robert_Englund%29.jpg",
+        "photo": "https://media.giphy.com/media/VXUpjaExrrsMU/giphy.gif",
         "scores": [
             5,
             5,
@@ -54,7 +54,7 @@ var friends = [
     
         {
         "name": "Hannibal",
-        "photo": "http://www.sleightsofmind.com/wordpress/wp-content/uploads/2012/09/Hannibal-Lecter-hannibal-lecter-24822525-320-244.jpg",
+        "photo": "https://media.giphy.com/media/9PH9saRidMXIs/giphy.gif",
         "scores": [
             5,
             5,
@@ -72,7 +72,7 @@ var friends = [
     
         {
         "name": "Anderson",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Anderson_Cooper_at_Tulane_University.jpg/220px-Anderson_Cooper_at_Tulane_University.jpg",
+        "photo": "https://media.giphy.com/media/AhxCE3ZkSEvSg/giphy.gif",
         "scores": [
              1,
              1,
@@ -90,7 +90,7 @@ var friends = [
     
         {
         "name": "Austin",
-        "photo": "https://nypdecider.files.wordpress.com/2018/08/austin-powers-spy-who-shagged-me.jpg?quality=90&strip=all&w=646&h=431&crop=1",
+        "photo": "https://media.giphy.com/media/QQkyLVLAbQRKU/giphy.gif",
         "scores": [
             5,
             1,
@@ -107,7 +107,7 @@ var friends = [
     
         {
          "name": "Pennywise",
-         "photo": "https://www.telegraph.co.uk/content/dam/films/2017/08/30/Bill-Skarsgard-as-Pennywise-in-Stephen-Kings-IT-copy_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz2o-yMLyYquKCawpyDOW254.jpg?imwidth=1400",
+         "photo": "https://media.giphy.com/media/6YpKCYnlojXRS/giphy.gif",
          "scores": [
              5,
              3,
@@ -124,7 +124,7 @@ var friends = [
 
         {
             "name": "Woody",
-            "photo": "https://permanentplastichelmet.files.wordpress.com/2010/06/munson2.jpg?w=625",
+            "photo": "https://media.giphy.com/media/JrlfQk5rQm9Xy/giphy.gif",
             "scores": [
                 5,
                 1,
@@ -137,6 +137,7 @@ var friends = [
                 3,
                 3
            ]
+           
            },
     ]
         module.exports = friends;
